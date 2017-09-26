@@ -3,5 +3,6 @@
     <string name="str_StudID">Student ID: 16109759</string>
     <string name="str_StudName">Name: Sean Heaslip</string>
     <string name="str_PressMe">Press me</string>
+    <string name="mess_toast">You pressed the button.</string>
 
 </resources>
