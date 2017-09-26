@@ -1,2 +1,2 @@
-# assign1
-Assignment 1 SDA
+# SDA_A1_2017_SeanHeaslip
+Assignment1
