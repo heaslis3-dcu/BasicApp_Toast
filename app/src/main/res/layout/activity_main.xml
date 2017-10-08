@@ -14,9 +14,9 @@
         android:id="@+id/studentName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="36dp"
+        android:padding="40dp"
         android:text="@string/str_StudName"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:fontFamily="sans-serif"
         android:textSize="24sp" />
 
     <TextView
@@ -24,9 +24,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/studentName"
-        android:padding="36dp"
+        android:padding="40dp"
         android:text="@string/str_StudID"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:fontFamily="sans-serif"
         android:textSize="24sp" />
 
     <Button
@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/studentID"
-        android:layout_margin="36dp"
+        android:layout_margin="40dp"
         android:fontFamily="sans-serif"
         android:onClick="showToast"
         android:text="@string/str_PressMe"
